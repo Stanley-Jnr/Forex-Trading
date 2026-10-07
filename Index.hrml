@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Forex Toolkit</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body { font-family: sans-serif; padding: 20px; background: #1e1e1e; color: #fff; }
+    a { color: #4fc3f7; }
+  </style>
+</head>
+<body>
+  <h1>Forex Toolkit</h1>
+  <p>My trading tools, coming soon.</p>
+  <ul>
+    <li>Charts</li>
+    <li>Journal</li>
+    <li>Backtesting</li>
+    <li>Copy Trading</li>
+    <li>AI Bot</li>
+    <li>Risk Calculator</li>
+  </ul>
+</body>
+</html>
